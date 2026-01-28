@@ -21,7 +21,7 @@
         
       </nav>
 
-      <!-- Botao de logout -->
+      <!-- Icone de logout -->
       <div class="sidebar-footer">
         <a class="logout-btn">
           <img src="/sair.png" class="logout-icon" />
